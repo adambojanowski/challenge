@@ -1,0 +1,6 @@
+/home/adam/Projects/biblio/biblio/obj/x86/Debug/biblio.csproj.AssemblyReference.cache
+/home/adam/Projects/biblio/biblio/obj/x86/Debug/biblio.csproj.CoreCompileInputs.cache
+/home/adam/Projects/biblio/biblio/bin/Debug/biblio.exe
+/home/adam/Projects/biblio/biblio/bin/Debug/biblio.pdb
+/home/adam/Projects/biblio/biblio/obj/x86/Debug/biblio.exe
+/home/adam/Projects/biblio/biblio/obj/x86/Debug/biblio.pdb
