@@ -1,5 +1,5 @@
-ja
-ty
-on
-ona
-ono
+ja 45.6
+ty 66.6
+on 34.4
+ona 67.8
+ono 65.6

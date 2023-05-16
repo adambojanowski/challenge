@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-//komentarz
+
 namespace biblio
 {
     class MainClass
